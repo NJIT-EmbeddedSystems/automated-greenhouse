@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "LibraryKicadFolder")(type "KiCad")(uri "C:/Users/AlexR/Downloads/LibraryKicadFolder")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "FirstDraftOfficial")(type "KiCad")(uri "C:/Users/AlexR/OneDrive/Desktop/FirstDraftOfficial")(options "")(descr ""))
+  (lib (name "First Draft PCB")(type "KiCad")(uri "C:/Users/AlexR/OneDrive/Desktop/Embedded/First Draft PCB")(options "")(descr ""))
+  (lib (name "RF_project-main1")(type "KiCad")(uri "C:/Users/AlexR/Downloads/RF_project-main")(options "")(descr ""))
+  (lib (name "RF_project-main")(type "KiCad")(uri "C:/Users/AlexR/Downloads/RF_project-main")(options "")(descr ""))
+)
